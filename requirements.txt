@@ -6,3 +6,5 @@ faiss-cpu
 sentence-transformers
 unstructured
 pypdf
+langchain-ollama
+langchain-groq
